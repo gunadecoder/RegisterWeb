@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RegistrationApi.Tests/RegistrationApi.Tests.csproj" Id="b521a1ee-c55b-45aa-971c-041c6baf9b1d" />
+  <Project Path="RegistrationApi/RegistrationApi.csproj" />
+</Solution>

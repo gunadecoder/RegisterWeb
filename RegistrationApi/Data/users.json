@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "John",
+    "Email": "john@gmail.com",
+    "Gender": "Male",
+    "Phone": "9876543210"
+  },
+  {
+    "Name": "John1",
+    "Email": "john1@gmail.com",
+    "Gender": "Male",
+    "Phone": "9876543210"
+  },
+  {
+    "Name": "tst",
+    "Email": "tst@g.com",
+    "Gender": "Male",
+    "Phone": "8888888888"
+  }
+]
